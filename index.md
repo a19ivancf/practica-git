@@ -4,6 +4,22 @@ You can use the [editor on GitHub](https://github.com/a19ivancf/practica-git/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+1. Probando a hacer una lista
+1. Es una lista enumerada
+1. Y puede tener multiples puntos
+   1. Como este
+   1. Y este
+
+>“Most people do not really want freedom, because freedom involves responsibility, 
+>and most people are frightened of responsibility.”
+
+― Sigmund Freud, Civilization and Its Discontents
+![Sigmund](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
+
+[YouTube](https://www.youtube.com)
+[Referencias](referencias.md)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
