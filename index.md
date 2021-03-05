@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Sigmund](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
 
 [YouTube](https://www.youtube.com)
-[Referencias](referencias.md)
+[Referencias](reference.md)
 
 
 ### Markdown
